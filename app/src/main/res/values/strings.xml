@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Tractiv</string>
+    <string name="text_title_splash">Track Your\nActive Lifestyle</string>
+    <string name="text_description_splash">With goal a driven approach</string>
+    <string name="text_get_started">GET STARTED</string>
 </resources>
